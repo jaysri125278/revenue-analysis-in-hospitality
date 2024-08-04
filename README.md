@@ -12,7 +12,7 @@ This Power BI project is a comprehensive dashboard that provides key insights in
 - Booking Platform Analysis: Bar and line chart comparing Realization % and ADR across different booking platforms.
 
 ## Screenshots
-
+![https://github.com/jaysri125278/revenue-analysis-in-hospitality/blob/main/screenshots/Screenshot%202024-08-03%20153614.png]
 
 ## Installation and Setup
 1. Download the File: Download the `Revenue-insights.pbix` file from this repository.
