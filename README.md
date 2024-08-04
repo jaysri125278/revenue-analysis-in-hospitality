@@ -11,7 +11,7 @@ This Power BI project is a comprehensive dashboard that provides key insights in
 - Property-Level Performance: Table displaying detailed performance metrics for each property, including city, revenue, occupancy rate, ADR, and more.
 - Booking Platform Analysis: Bar and line chart comparing Realization % and ADR across different booking platforms.
 
-## Screenshots
+## Screenshot
 ![screenshot](https://github.com/jaysri125278/revenue-analysis-in-hospitality/blob/main/screenshots/Screenshot%202024-08-03%20153614.png)
 
 ## Installation and Setup
